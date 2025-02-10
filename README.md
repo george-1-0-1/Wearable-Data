@@ -1,6 +1,11 @@
 # Wearable-Data
 Use of Wearable Devices to Collect and Analyze Swell Data for Further Research Application
 
+## Dataset 
+
+https://www.kaggle.com/datasets/qiriro/swell-heart-rate-variability-hrv
+
+This dataset comprises of heart rate variability (HRV) indices computed from the multimodal SWELL knowledge work (SWELL-KW) dataset for research on stress and user modeling (see. http://cs.ru.nl/~skoldijk/SWELL-KW/Dataset.html). The SWELL was collected by researchers at the Institute for Computing and Information Sciences at Radboud University. It is a result of experiments conducted on 25 subjects doing typical office work (for example writing reports, making presentations, reading e-mail and searching for information). The subject went through typical working stressors such as receiving unexpected emails interruptions and pressure to complete their work on time. The experiment recorded various data including computer logging, facial expression, body postures, ECG signal, and skin conductance. The researchers also recorded the subjects’ subjective experience on task load, mental effort, emotion, and perceived stress. Each participant went through three different working conditions.
 
 ## Methodology
 
